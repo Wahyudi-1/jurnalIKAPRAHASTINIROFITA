@@ -1,5 +1,5 @@
 /**
- * ================================================================
+ * =================================================================
  * SCRIPT UTAMA FRONTEND - JURNAL PEMBELAJARAN (VERSI DENGAN UX IMPROVEMENT)
  * =================================================================
  * @version 5.6 - Peningkatan UX pada Form Siswa
@@ -16,7 +16,7 @@
 // TAHAP 1: KONFIGURASI GLOBAL DAN STATE APLIKASI
 // ====================================================================
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbybsJojbUP-G_oyO_pbFH1WKYtXpyJJzLDEjXkIYZwSgyo0S1Zwri4KY29QqEa4DeiR_g/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwxvVLJm1-Bkno40qfohItPHFgJiMTKgt9Z180MQ0URfwj8rr5c5PzysoiFJ6rL3LsOGw/exec";
 
 let cachedSiswaData = [];
 let cachedJurnalHistory = [];
